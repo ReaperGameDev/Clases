@@ -1,0 +1,278 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\IDT-STEAM-Prof\\ClasesSabados\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F27276C-5893-0608-0404-803904143E43}|Assembly-CSharp.csproj|c:\\users\\idt-steam-prof\\clasessabados\\assets\\thirdpersonmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F27276C-5893-0608-0404-803904143E43}|Assembly-CSharp.csproj|solutionrelative:assets\\thirdpersonmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F27276C-5893-0608-0404-803904143E43}|Assembly-CSharp.csproj|c:\\users\\idt-steam-prof\\clasessabados\\assets\\playerspawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F27276C-5893-0608-0404-803904143E43}|Assembly-CSharp.csproj|solutionrelative:assets\\playerspawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F27276C-5893-0608-0404-803904143E43}|Assembly-CSharp.csproj|C:\\Users\\IDT-STEAM-Prof\\ClasesSabados\\assets\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F27276C-5893-0608-0404-803904143E43}|Assembly-CSharp.csproj|solutionrelative:assets\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F27276C-5893-0608-0404-803904143E43}|Assembly-CSharp.csproj|C:\\Users\\IDT-STEAM-Prof\\ClasesSabados\\assets\\triggerenemystatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F27276C-5893-0608-0404-803904143E43}|Assembly-CSharp.csproj|solutionrelative:assets\\triggerenemystatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F27276C-5893-0608-0404-803904143E43}|Assembly-CSharp.csproj|C:\\Users\\IDT-STEAM-Prof\\ClasesSabados\\assets\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F27276C-5893-0608-0404-803904143E43}|Assembly-CSharp.csproj|solutionrelative:assets\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F27276C-5893-0608-0404-803904143E43}|Assembly-CSharp.csproj|C:\\Users\\IDT-STEAM-Prof\\ClasesSabados\\assets\\onroomenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F27276C-5893-0608-0404-803904143E43}|Assembly-CSharp.csproj|solutionrelative:assets\\onroomenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F27276C-5893-0608-0404-803904143E43}|Assembly-CSharp.csproj|C:\\Users\\IDT-STEAM-Prof\\ClasesSabados\\assets\\playercontroller3d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F27276C-5893-0608-0404-803904143E43}|Assembly-CSharp.csproj|solutionrelative:assets\\playercontroller3d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F27276C-5893-0608-0404-803904143E43}|Assembly-CSharp.csproj|C:\\Users\\IDT-STEAM-Prof\\ClasesSabados\\assets\\choosecharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F27276C-5893-0608-0404-803904143E43}|Assembly-CSharp.csproj|solutionrelative:assets\\choosecharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F27276C-5893-0608-0404-803904143E43}|Assembly-CSharp.csproj|C:\\Users\\IDT-STEAM-Prof\\ClasesSabados\\assets\\outlineshader.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{1F27276C-5893-0608-0404-803904143E43}|Assembly-CSharp.csproj|solutionrelative:assets\\outlineshader.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F27276C-5893-0608-0404-803904143E43}|Assembly-CSharp.csproj|C:\\Users\\IDT-STEAM-Prof\\ClasesSabados\\assets\\interaccionraycast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F27276C-5893-0608-0404-803904143E43}|Assembly-CSharp.csproj|solutionrelative:assets\\interaccionraycast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F27276C-5893-0608-0404-803904143E43}|Assembly-CSharp.csproj|C:\\Users\\IDT-STEAM-Prof\\ClasesSabados\\assets\\firstpersoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F27276C-5893-0608-0404-803904143E43}|Assembly-CSharp.csproj|solutionrelative:assets\\firstpersoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F27276C-5893-0608-0404-803904143E43}|Assembly-CSharp.csproj|C:\\Users\\IDT-STEAM-Prof\\ClasesSabados\\assets\\inventorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F27276C-5893-0608-0404-803904143E43}|Assembly-CSharp.csproj|solutionrelative:assets\\inventorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F27276C-5893-0608-0404-803904143E43}|Assembly-CSharp.csproj|C:\\Users\\IDT-STEAM-Prof\\ClasesSabados\\assets\\newbehaviourscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F27276C-5893-0608-0404-803904143E43}|Assembly-CSharp.csproj|solutionrelative:assets\\newbehaviourscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F27276C-5893-0608-0404-803904143E43}|Assembly-CSharp.csproj|C:\\Users\\IDT-STEAM-Prof\\ClasesSabados\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F27276C-5893-0608-0404-803904143E43}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F27276C-5893-0608-0404-803904143E43}|Assembly-CSharp.csproj|C:\\Users\\IDT-STEAM-Prof\\ClasesSabados\\assets\\prueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F27276C-5893-0608-0404-803904143E43}|Assembly-CSharp.csproj|solutionrelative:assets\\prueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F27276C-5893-0608-0404-803904143E43}|Assembly-CSharp.csproj|C:\\Users\\IDT-STEAM-Prof\\ClasesSabados\\assets\\distance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F27276C-5893-0608-0404-803904143E43}|Assembly-CSharp.csproj|solutionrelative:assets\\distance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ThirdPersonMovement.cs",
+              "DocumentMoniker": "C:\\Users\\IDT-STEAM-Prof\\ClasesSabados\\Assets\\ThirdPersonMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\ThirdPersonMovement.cs",
+              "ToolTip": "C:\\Users\\IDT-STEAM-Prof\\ClasesSabados\\Assets\\ThirdPersonMovement.cs",
+              "RelativeToolTip": "Assets\\ThirdPersonMovement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T18:19:56.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerSpawn.cs",
+              "DocumentMoniker": "C:\\Users\\IDT-STEAM-Prof\\ClasesSabados\\Assets\\PlayerSpawn.cs",
+              "RelativeDocumentMoniker": "Assets\\PlayerSpawn.cs",
+              "ToolTip": "C:\\Users\\IDT-STEAM-Prof\\ClasesSabados\\Assets\\PlayerSpawn.cs",
+              "RelativeToolTip": "Assets\\PlayerSpawn.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwCkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T18:01:05.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "C:\\Users\\IDT-STEAM-Prof\\ClasesSabados\\Assets\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\PlayerMovement.cs",
+              "ToolTip": "C:\\Users\\IDT-STEAM-Prof\\ClasesSabados\\Assets\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\PlayerMovement.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T17:50:43.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OnRoomEnter.cs",
+              "DocumentMoniker": "C:\\Users\\IDT-STEAM-Prof\\ClasesSabados\\Assets\\OnRoomEnter.cs",
+              "RelativeDocumentMoniker": "Assets\\OnRoomEnter.cs",
+              "ToolTip": "C:\\Users\\IDT-STEAM-Prof\\ClasesSabados\\Assets\\OnRoomEnter.cs",
+              "RelativeToolTip": "Assets\\OnRoomEnter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T18:27:11.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TriggerEnemyStatus.cs",
+              "DocumentMoniker": "C:\\Users\\IDT-STEAM-Prof\\ClasesSabados\\Assets\\TriggerEnemyStatus.cs",
+              "RelativeDocumentMoniker": "Assets\\TriggerEnemyStatus.cs",
+              "ToolTip": "C:\\Users\\IDT-STEAM-Prof\\ClasesSabados\\Assets\\TriggerEnemyStatus.cs",
+              "RelativeToolTip": "Assets\\TriggerEnemyStatus.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T20:07:10.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EnemyAI.cs",
+              "DocumentMoniker": "C:\\Users\\IDT-STEAM-Prof\\ClasesSabados\\Assets\\EnemyAI.cs",
+              "RelativeDocumentMoniker": "Assets\\EnemyAI.cs",
+              "ToolTip": "C:\\Users\\IDT-STEAM-Prof\\ClasesSabados\\Assets\\EnemyAI.cs",
+              "RelativeToolTip": "Assets\\EnemyAI.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T17:45:28.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ChooseCharacter.cs",
+              "DocumentMoniker": "C:\\Users\\IDT-STEAM-Prof\\ClasesSabados\\Assets\\ChooseCharacter.cs",
+              "RelativeDocumentMoniker": "Assets\\ChooseCharacter.cs",
+              "ToolTip": "C:\\Users\\IDT-STEAM-Prof\\ClasesSabados\\Assets\\ChooseCharacter.cs",
+              "RelativeToolTip": "Assets\\ChooseCharacter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T19:33:42.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OutlineShader.shader",
+              "DocumentMoniker": "C:\\Users\\IDT-STEAM-Prof\\ClasesSabados\\Assets\\OutlineShader.shader",
+              "RelativeDocumentMoniker": "Assets\\OutlineShader.shader",
+              "ToolTip": "C:\\Users\\IDT-STEAM-Prof\\ClasesSabados\\Assets\\OutlineShader.shader",
+              "RelativeToolTip": "Assets\\OutlineShader.shader",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2024-09-14T20:08:19.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FirstPersonController.cs",
+              "DocumentMoniker": "C:\\Users\\IDT-STEAM-Prof\\ClasesSabados\\Assets\\FirstPersonController.cs",
+              "RelativeDocumentMoniker": "Assets\\FirstPersonController.cs",
+              "ToolTip": "C:\\Users\\IDT-STEAM-Prof\\ClasesSabados\\Assets\\FirstPersonController.cs",
+              "RelativeToolTip": "Assets\\FirstPersonController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T19:53:30.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InteraccionRaycast.cs",
+              "DocumentMoniker": "C:\\Users\\IDT-STEAM-Prof\\ClasesSabados\\Assets\\InteraccionRaycast.cs",
+              "RelativeDocumentMoniker": "Assets\\InteraccionRaycast.cs",
+              "ToolTip": "C:\\Users\\IDT-STEAM-Prof\\ClasesSabados\\Assets\\InteraccionRaycast.cs",
+              "RelativeToolTip": "Assets\\InteraccionRaycast.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAYwC0AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T19:45:36.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "InventoryManager.cs",
+              "DocumentMoniker": "C:\\Users\\IDT-STEAM-Prof\\ClasesSabados\\Assets\\InventoryManager.cs",
+              "RelativeDocumentMoniker": "Assets\\InventoryManager.cs",
+              "ToolTip": "C:\\Users\\IDT-STEAM-Prof\\ClasesSabados\\Assets\\InventoryManager.cs",
+              "RelativeToolTip": "Assets\\InventoryManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T18:24:26.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NewBehaviourScript.cs",
+              "DocumentMoniker": "C:\\Users\\IDT-STEAM-Prof\\ClasesSabados\\Assets\\NewBehaviourScript.cs",
+              "RelativeDocumentMoniker": "Assets\\NewBehaviourScript.cs",
+              "ToolTip": "C:\\Users\\IDT-STEAM-Prof\\ClasesSabados\\Assets\\NewBehaviourScript.cs",
+              "RelativeToolTip": "Assets\\NewBehaviourScript.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T17:45:26.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlayerController3D.cs",
+              "DocumentMoniker": "C:\\Users\\IDT-STEAM-Prof\\ClasesSabados\\Assets\\PlayerController3D.cs",
+              "RelativeDocumentMoniker": "Assets\\PlayerController3D.cs",
+              "ToolTip": "C:\\Users\\IDT-STEAM-Prof\\ClasesSabados\\Assets\\PlayerController3D.cs",
+              "RelativeToolTip": "Assets\\PlayerController3D.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T19:10:01.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\IDT-STEAM-Prof\\ClasesSabados\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\IDT-STEAM-Prof\\ClasesSabados\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T18:54:50.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Distance.cs",
+              "DocumentMoniker": "C:\\Users\\IDT-STEAM-Prof\\ClasesSabados\\Assets\\Distance.cs",
+              "RelativeDocumentMoniker": "Assets\\Distance.cs",
+              "ToolTip": "C:\\Users\\IDT-STEAM-Prof\\ClasesSabados\\Assets\\Distance.cs",
+              "RelativeToolTip": "Assets\\Distance.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T17:55:08.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Prueba.cs",
+              "DocumentMoniker": "C:\\Users\\IDT-STEAM-Prof\\ClasesSabados\\Assets\\Prueba.cs",
+              "RelativeDocumentMoniker": "Assets\\Prueba.cs",
+              "ToolTip": "C:\\Users\\IDT-STEAM-Prof\\ClasesSabados\\Assets\\Prueba.cs",
+              "RelativeToolTip": "Assets\\Prueba.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAuwBoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T19:55:19.616Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
